@@ -1,3 +1,5 @@
+"use client";
+
 import React, { PureComponent } from "react";
 import Header from "./Header";
 import SearchInput from "./SearchInput";
